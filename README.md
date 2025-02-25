@@ -18,7 +18,7 @@ This **AI-Powered Pharmacist Assistant** is a Flask-based AI solution that autom
 - **Backend:** Flask (Python)
 - **AI/ML:** Tesseract OCR, spaCy NLP
 - **Database:** SQLite
-- **Deployment:** Docker, Google Cloud Run
+- **Deployment:** Docker
 
 ---
 
