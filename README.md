@@ -23,7 +23,7 @@ This **AI-Powered Pharmacist Assistant** is a Flask-based AI solution that autom
 ---
 
 ## Project Structure
- 📂 database  <br>
+ 📂 [database](https://github.com/Sara1428/GH-2025-Ideathon-Project/tree/main/database)  <br>
   &nbsp; &nbsp; &nbsp; &nbsp;     ├── pharmacy.db    --> SQLite database    <br>
   &nbsp; &nbsp; &nbsp; &nbsp;  ├── init_db.py        --> Database initialization script <br>
 
