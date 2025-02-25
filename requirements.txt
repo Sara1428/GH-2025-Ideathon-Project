@@ -1,0 +1,8 @@
+Flask
+pytesseract
+opencv-python
+numpy
+spacy
+sqlite3
+werkzeug
+requests
